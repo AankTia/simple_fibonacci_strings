@@ -10,3 +10,5 @@ Given that
 Will be given a number and task is to return the nth fibonacci string. For example:
 - solve(2) = '010'
 - solve(3) = '01001'
+
+Source: https://www.codewars.com/kata/simple-fibonacci-strings
